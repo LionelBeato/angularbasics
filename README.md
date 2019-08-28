@@ -1,6 +1,7 @@
-# TestApp
+# Angular Testing
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
+This project is designed to show some level of proficiency with the Angular framework. 
 
 ## Development server
 
